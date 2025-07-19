@@ -1,2 +1,2 @@
-let hitung = 1+1;
+let hitung = 1-3;
 console.log(hitung);
